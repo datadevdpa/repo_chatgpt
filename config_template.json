@@ -1,0 +1,12 @@
+{
+  "stores": [
+    {
+      "name": "example-store",
+      "domain": "example-store.myshopify.com",
+      "api_key": "YOUR_API_KEY",
+      "password": "YOUR_PASSWORD",
+      "api_version": "2023-07",
+      "s3_bucket": "your-s3-bucket"
+    }
+  ]
+}
